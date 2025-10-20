@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>ราวเหมือนดั่งความฝัน</title>
+  <subtitle>it's like a dream...</subtitle>
+  <link rel="alternate" type="text/html" href="https://kwaamfan.neocities.org/"/>
+  <link rel="self" type="application/atom+xml" href="https://kwaamfan.neocities.org/atom.xml"/>
+  <updated>2025-09-20T19:07:33-05:00</updated>
+  <link href="https://kwaamfan.neocities.org/"/>
+  <author>
+    <name>kwaamfan</name>
+  </author>
+  <id>https://kwaamfan.neocities.org/atom.xml</id>
+
+  <entry>
+    <title>responsive image gallery theme, notes on how to use json files on a website</title>
+    <link href="https://kwaamfan.neocities.org/codes/gallery-with-tag-system/"/>
+    <id>https://kwaamfan.neocities.org/?2025-09-20T19:07:33-05:00</id>
+    <updated>2025-09-20T19:07:33-05:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        i added the following changes to my site over the last two weeks:
+        <ul>
+          <li>published a new free to use <a href="https://kwaamfan.neocities.org/codes/gallery-with-tag-system/">image gallery template</a>. it includes a filter/tab system and popups when clicking on an image, both of which work without javascript. comes with detailed instructions on how to use it as well as a link to the folder on my site's github where you can look at how i generated it from markdown files and an eleventy template</li>
+          <li>published tutorials for two methods of adding data to a webpage from a <a href="https://kwaamfan.neocities.org/notes/030-my-notes/json" target="_top">json file</a>: using <a href="https://kwaamfan.neocities.org/notes/030-my-notes/building-a-web-page-from-json-data-using-11ty" target="_top">eleventy</a> and <a href="https://kwaamfan.neocities.org/notes/030-my-notes/using-javascript-to-load-data-from-a-json-file" target="_top">javascript</a></li>
+          <li>added two new buttons for my site, one of which features fran from ffxii and the other nemissa from soul hackers</li>
+          <li>added a uses list to my <a href="https://kwaamfan.neocities.org/about/#lists">about</a> page</li>
+          <li>added three older projects and one recently finished cardigan to my <a href="https://kwaamfan.neocities.org/crafts">crafts</a> page</li>
+          <li>released a slight redesign of my <a href="https://kwaamfan.neocities.org/resources/">resources site</a> and updated the <a href="https://kwaamfan.neocities.org/resources/language/japanese/">japanese</a> page with more grammar resources i've been using lately and more youtubers i've been listening to (which is now split into ~N5/N4 and ~N3 categories)</li> 
+        </ul>
+      </div>
+    </content>
+  </entry>
+
+  <entry>
+    <title>vegan page added, notes on how to prevent gif autoplay</title>
+    <link href="https://kwaamfan.neocities.org/vegan/"/>
+    <id>https://kwaamfan.neocities.org/?2025-09-07T18:10:02-05:00</id>
+    <updated>2025-09-07T18:10:02-05:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        i added the following changes to my site this past week:
+        <ul>
+          <li>published a <a href="https://kwaamfan.neocities.org/vegan/">vegan</a> page. currently has a toybox for farm animals, and links to my favorite recipes and cookbooks</li>
+          <li>added four new notes to the <a href="https://kwaamfan.neocities.org/notes/">notebook</a> section: <a href="https://kwaamfan.neocities.org/notes/preventing-gif-autoplay.html">preventing gif autoplay</a>, <a href="https://kwaamfan.neocities.org/notes/batch-print-images-in-a-folder-to-html.html">batch printing images in a folder to html</a>, <a href="https://kwaamfan.neocities.org/notes/most-used-imageMagick-commands.html">my most used imagemagick commands</a>, and how i use <a href="https://kwaamfan.neocities.org/notes/details-tag.html">the details html tag</a>. i also updated the css, so if something looks weird or broken please hard refresh</li>
+          <li>on my <a href="https://kwaamfan.neocities.org/resources">resources site</a>, dead links were updated on the <a href="https://kwaamfan.neocities.org/resources/gaming/switch/">switch</a> page and more links were added to the <a href="https://kwaamfan.neocities.org/resources/other/sitebuilding/">site building</a> page, including the creation of a javascript libraries section</li>
+          <li>updated the button wall on my <a href="https://kwaamfan.neocities.org/main/">main</a> page. please contact me if your site is missing or you'd like your button removed/changed!</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+
+  <entry>
+    <title>crafts and notebook pages added</title>
+    <link href="https://kwaamfan.neocities.org/crafts/"/>
+    <id>https://kwaamfan.neocities.org/?2025-07-31T17:52:30-05:00</id>
+    <updated>2025-07-31T17:52:30-05:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        long time no update... ^^; here's the changes i made to my site the last week or two:
+        <ul>
+          <li>published a <a href="https://kwaamfan.neocities.org/crafts/">crafts</a> page for sharing my fiber arts projects</li>
+          <li>published a <a href="https://kwaamfan.neocities.org/notes/">notebook</a> section for random notes and tutorials that might be helpful to others. mostly related to language learning, site building, and linux</li>
+          <li>updated my <a href="https://kwaamfan.neocities.org/language/">language learning</a> page with a few updates on how my routine has changed, plus i added a media log of things i've watched or read in my target languages</li>
+          <li>re-added a chattable box to the <a href="https://kwaamfan.neocities.org/main/">main</a> page, plus added a new window for things i'm currently playing, reading, making, etc</li>
+          <li>two new places to <a href="https://kwaamfan.neocities.org/places/">my favorite video game locations</a></li>
+          <li>various bug fixes and optimizations</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+
+  <entry>
+    <title>article page added</title>
+    <link href="https://kwaamfan.neocities.org/articles/"/>
+    <id>https://kwaamfan.neocities.org/?2024-07-31T21:33:49Z</id>
+    <updated>2024-07-31T21:33:55Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        added a new page to share links to my favorite <a href="https://kwaamfan.neocities.org/articles/">articles</a>, blog posts, and other written content from around the web
+      </div>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>about page redesigned</title>
+    <link href="https://kwaamfan.neocities.org/about/"/>
+    <id>https://kwaamfan.neocities.org/?2024-07-25T22:13:35Z</id>
+    <updated>2024-07-25T22:13:44Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        redesigned my <a href="https://kwaamfan.neocities.org/about/">about page</a> to be more soul hackers themed. i also removed the chatbox on my main page since the service i was using, chattable, is no longer active :( once i've decided on a new service it'll be replaced tho!
+      </div>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>more stuff added to the resources site</title>
+    <link href="https://kwaamfan.neocities.org/resources/"/>
+    <id>https://kwaamfan.neocities.org/?2024-05-29T19:53:11Z</id>
+    <updated>2024-05-29T19:53:11Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        i added more links to <a href="https://kwaamfan.neocities.org/resources/">my resources site</a>. specifically i added some more online tools and references to the <a href="https://kwaamfan.neocities.org/resources/other/sitebuilding">website building</a> page, added goldendict to the <a href="https://kwaamfan.neocities.org/resources/language/tools">language learning tools</a> page, and added a browser tools and extensions section to the <a href="https://kwaamfan.neocities.org/resources/other/more">more links</a> page.
+      </div>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>sitemap added</title>
+    <link href="https://kwaamfan.neocities.org/sitemap/"/>
+    <id>https://kwaamfan.neocities.org/?2024-05-17T04:13:24Z</id>
+    <updated>2024-05-17T04:13:42Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        added a <a href="https://kwaamfan.neocities.org/sitemap/">sitemap</a>.
+      </div>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>website building resources page released</title>
+    <link href="https://kwaamfan.neocities.org/resources/other/sitebuilding/"/>
+    <id>https://kwaamfan.neocities.org/?2024-05-09T07:05:51Z</id>
+    <updated>2024-05-09T07:05:51Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        finally released my <a href="https://kwaamfan.neocities.org/resources/other/sitebuilding/">website building</a> page on my resources site to the public! i still want to add sections for graphics and accessibility in the future though. i did some behind-the-scenes updates to the code on my resources site last week to make it functional without javascript, so if something looks broken please hard refresh (ctrl+f5)
+      </div>
+    </content>
+  </entry>
+  
+  <entry>
+    <title>my favorite video game locations</title>
+    <link href="https://kwaamfan.neocities.org/places/"/>
+    <id>https://kwaamfan.neocities.org/?2024-05-03T01:41:35Z</id>
+    <updated>2024-05-03T01:41:49Z</updated>
+    <content type="html">
+		added a new page for &lt;a href=&quot;https://kwaamfan.neocities.org/places/&quot;&gt;my favorite video game locations&lt;/a&gt;! it works better if audio autoplay is enabled but you can manually toggle audio on and off too.
+	</content>
+  </entry>
+  
+  <entry>
+    <title>new rss feed</title>
+    <link href="https://kwaamfan.neocities.org/"/>
+    <id>https://kwaamfan.neocities.org/?2024-04-30T07:03:01Z</id>
+    <updated>2024-04-30T04:47:00Z</updated>
+    <content type="html">
+		created this atom/rss feed! i'll still be maintaining the changelogs on my site but i'll be updating this feed as well for those who aren't on neocities or just prefer rss managers
+	</content>
+  </entry>
+  
+
+</feed>
